@@ -24,3 +24,5 @@
 * RedstoneFlux;
 * Ender Storage;
 * ChickenChunks;
+* Mekanism;
+* ExtremeReactors;
